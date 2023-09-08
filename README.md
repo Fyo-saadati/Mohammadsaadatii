@@ -2,6 +2,6 @@
 - 👀 I’m interested in hard chaleng
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 my telegram account: sciphile
+- 📫 my telegram account: https://t.me/Sciencephile
 - 📫 my codewars Badges:  https://www.codewars.com/users/scigeek/badges/large
 
